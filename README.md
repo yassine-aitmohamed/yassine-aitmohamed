@@ -27,4 +27,4 @@ All of them are MIT-licensed. Bug reports and suggestions are always welcome.
 ### Find me
 
 - 🌐 Website: [yassine-aitmohamed.github.io](https://yassine-aitmohamed.github.io)
-- 📚 Papers: [arXiv](https://arxiv.org/a/aitmohamed_y_1)
+- 📚 Papers: [arXiv](https://arxiv.org/a/aitmohamed_y_1) · [Google Scholar](https://scholar.google.com/citations?user=2WsCAIAAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Yassine-Ait-Mohamed)
