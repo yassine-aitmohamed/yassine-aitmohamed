@@ -25,7 +25,4 @@ All of them are MIT-licensed. Bug reports and suggestions are always welcome.
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 ![Chrome extensions](https://img.shields.io/badge/Chrome%20extensions-4285F4?logo=googlechrome&logoColor=white)
 
-### Find me
-
- 🌐 Website: [yassine-aitmohamed.github.io](https://yassine-aitmohamed.github.io)
 
