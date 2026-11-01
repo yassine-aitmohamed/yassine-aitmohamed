@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/schemas.svg" width="100%" alt="Rotating wireframes: nested spheres, a torus, a cone, a wave surface and the A3 root system">
+</p>
+
 ## Hi, I'm Yassine 👋
 
 I'm a PhD student in mathematics at the **Université de Sherbrooke** (Québec, Canada), working on **Poisson geometry**, Lie groupoids and shifted symplectic structures, with a background in graded noncommutative algebra.
